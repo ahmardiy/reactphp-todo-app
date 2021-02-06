@@ -1,5 +1,6 @@
 {
     "require": {
+        "php": "^7.4 || ^8.0",
         "ahmard/quick-route": "^2.5",
         "ahmard/reaponse": "^1.0",
         "wyrihaximus/react-http-middleware-webroot-preload": "^2.1",
